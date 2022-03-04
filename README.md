@@ -15,3 +15,5 @@ Application is usable on every browser.
 ![Screenshot](./assets/images/hs.png)
 
 ### Link to deployed app
+
+https://davonhb.github.io/QuizApp/
