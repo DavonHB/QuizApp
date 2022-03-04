@@ -27,8 +27,6 @@ body {
         background-color: rgb(212, 190, 190);
         border-radius: 25px;
         color: hsl(0, 8%, 7%);
-        display: flex;
-        justify-content: end;
         cursor: default;
         background: #c0c7cf;
         margin: 20px;
