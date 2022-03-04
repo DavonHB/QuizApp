@@ -8,8 +8,10 @@ Application is usable on every browser.
 
 ## Screenshots 
 
-[!Screenshot](./assets/images/quiz.png)
+![Screenshot](./assets/images/quiz.png)
 
-[!Screenshot](./assets/images/quiza.png)
+![Screenshot](./assets/images/quiza.png)
 
-[!Screenshot](./assets/images/hs.png)
+![Screenshot](./assets/images/hs.png)
+
+### Link to deployed app
