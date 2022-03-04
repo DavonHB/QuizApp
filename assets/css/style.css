@@ -1,0 +1,39 @@
+.container {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+
+.container {
+    border-radius: 2rem;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.h1 {
+    text-align: center;
+    color: hsl(0, 68%, 39%);
+  }
+
+  .btn-primary {
+        border: none;
+        background-color: rgb(212, 190, 190);
+        border-radius: 25px;
+        color: hsl(0, 8%, 7%);
+        display: flex;
+        justify-content: end;
+        cursor: default;
+        background: #c0c7cf;
+        margin: 20px;
+  }
+
+  .p {
+      text-align: center;
+  }
